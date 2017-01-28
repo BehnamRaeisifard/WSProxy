@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataEditors />
+  <InvokeSettings>
+    <RecentlyUsedUris>
+     
+    </RecentlyUsedUris>
+  </InvokeSettings>
+  <TypeConverters />
+  <UiSettings>
+    <MessageFont>Lucida Sans Unicode, 9.25pt</MessageFont>
+    <ReqRespFont>Lucida Sans Unicode, 9.25pt</ReqRespFont>
+    <WsdlFont>Lucida Sans Unicode, 8.25pt</WsdlFont>
+  </UiSettings>
+  <WsdlSettings CustomCodeDomProvider="" Language="CS" Protocol="SOAP" />
+</Configuration>

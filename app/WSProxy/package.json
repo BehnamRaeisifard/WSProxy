@@ -1,0 +1,19 @@
+{
+  "name": "wsproxy",
+  "version": "1.0.0",
+  "description": "Web Service Proxy (https -> http)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "service",
+    "proxy"
+  ],
+  "author": "Behnam Raeisifard",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.14.0"
+  }
+}

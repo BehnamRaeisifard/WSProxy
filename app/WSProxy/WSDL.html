@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>WSDL</title>
+    <link href=".\res\styles\school-book.css" rel="stylesheet"/>
+    <style>
+        body{
+            margin: 0;
+        }
+        pre{
+            margin: 0;
+        }
+    </style>
+    <script>
+        $ = jQuery = require('..\\WSProxy\\res\\js\\jquery-3.0.0.min.js');
+    </script>
+    <script src=".\res\js\vkbeautify.js"></script>
+    <script src=".\res\js\highlight.pack.js"></script>
+</head>
+<body>
+<pre class="language-xml"><code id="wsdl" class="language-xml html"></code></pre>
+</body>
+<script type="text/javascript">
+    var win = nw.Window.get();
+    var data = win.data;
+    var xmlTextNode = document.createTextNode(vkbeautify.xml(data));
+    var parentDiv = document.getElementById('wsdl');
+    parentDiv.appendChild(xmlTextNode);
+    //document.write(data);
+    //var data = soapResponse.toXML();
+    //rec2File(soapResponse.toString()+'\n');
+    /* var xmlText = new XMLSerializer().serializeToString(data);
+     var xmlTextNode = document.createTextNode(vkbeautify.xml(xmlText));
+     var parentDiv = document.getElementById('wsdl');
+     parentDiv.appendChild(xmlTextNode);*/
+    $('pre code').each(function (i, block) {
+        hljs.highlightBlock(block);
+    });
+</script>
+</html>
