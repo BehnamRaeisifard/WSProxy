@@ -1,0 +1,301 @@
+[0702/134807.046:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/134841.881:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/134946.211:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/140843.154:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/140926.723:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/141356.544:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/141532.048:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/141607.290:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/141918.847:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/142034.400:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/142404.135:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/143335.899:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/144946.489:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/144953.952:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/144955.975:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/144956.915:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/144957.816:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/144958.587:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/145002.986:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/145133.897:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0702/145419.150:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/145848.864:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/150230.184:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/151108.770:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/152058.000:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/152234.049:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0702/163318.239:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0703/150639.159:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0703/150902.336:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0703/152230.723:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0703/160536.193:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0703/162700.698:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0703/164343.532:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0703/164435.445:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0703/164524.614:WARNING:chrome_main_delegate.cc(569)] final extension: .html
+[0703/164535.741:WARNING:chrome_main_delegate.cc(569)] final extension: .html
+[0703/164546.197:WARNING:chrome_main_delegate.cc(569)] final extension: .html
+[0703/164556.619:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0703/164952.757:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0703/170136.597:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0704/151554.216:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0704/152910.209:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0704/153149.887:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0704/153224.649:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0704/154603.360:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0704/155336.604:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0704/160059.014:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/124427.711:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/125011.785:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/133828.153:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0705/133917.510:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/140413.857:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0705/140542.118:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/141209.262:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0705/141250.964:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/141603.619:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/141816.442:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/141828.494:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/141846.075:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/141934.302:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/142113.746:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/142156.257:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/142201.185:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/142208.024:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/142528.466:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/151019.731:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154216.095:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154703.157:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154717.773:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154722.071:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154758.412:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154800.909:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154802.173:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154803.423:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154804.898:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154805.904:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154806.752:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154817.487:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154908.871:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154931.127:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/154958.947:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/155250.722:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/155347.646:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/155410.726:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/155420.103:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/155426.482:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/155436.402:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/155447.156:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/155451.733:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0705/155525.639:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0705/155526.208:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0706/160527.343:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 400ad201-d44d-4f81-80bb-457dbe57cb1e
+[0706/160527.344:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 90fc8ba6-fe39-4439-bbb0-4bd8fcdb046c
+[0706/160527.345:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 59253c37-41af-4826-900a-0ce275b021a4
+[0706/160527.346:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report b2bba45d-1abb-4f3c-bf28-52a503e4fcd2
+[0706/160527.346:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 198fc28e-3aeb-4265-bfe7-6ad97eec27a1
+[0707/160527.248:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report efe2be95-7c2f-4cbc-bda4-1adcd95f8a74
+[0707/160527.249:ERROR:crash_report_database_win.cc(474)] failed to truncate: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+[0707/160527.249:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 0a35de20-1ff3-43a1-8262-864af3c7c202
+[0707/160527.250:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report f2780b26-946d-4e36-8a2a-a820dc6199af
+[0707/160527.250:ERROR:crash_report_database_win.cc(826)] DeleteFile C:\Windows\system32\config\systemprofile\AppData\Local\WSProxy\User Data\Crashpad\reports\2d7142d2-9a7c-4173-aaf4-ae79a5ac6111.dmp: The system cannot find the file specified. (0x2)
+[0707/160527.251:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 2d7142d2-9a7c-4173-aaf4-ae79a5ac6111
+[0707/160527.252:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report abe098b8-d830-4208-bff7-c8e07518e9ac
+[0707/160527.252:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report f92ceb76-f333-4e5e-8f14-a04606656a00
+[0707/160527.253:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report fc476f4b-0f37-4c37-adee-f3d4acb1d41e
+[0707/160527.254:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report d006edfa-3d8e-4560-88bc-9130de41dc23
+[0707/160527.255:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 701f1660-aac1-403d-aa71-4b26e7fa65de
+[0707/160527.255:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report be1b72ae-938a-4ba8-b710-2e50f9417f92
+[0707/160527.256:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 526a84d2-aca0-4502-8411-e90d5361ab43
+[0707/160527.257:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 43cd1254-390a-4cf4-83c2-20466e5ecfb8
+[0707/160527.257:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 0dea0af8-a64b-4a01-a7b4-7749fe8ddb88
+[0707/160527.258:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report e48c4a23-4a36-48d8-9959-5982f2fadd50
+[0708/083627.911:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0708/083631.438:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0708/083637.453:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0708/084326.095:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0708/155217.067:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0708/155734.342:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0708/163003.781:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0708/163104.204:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0708/163405.320:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/152411.516:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/152507.298:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/171732.243:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/171809.560:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/172147.804:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/172210.834:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/172224.946:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/172740.642:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/172849.294:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/172948.483:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/173037.483:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/173118.203:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/173746.684:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/173932.117:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/174126.084:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/174141.268:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/174304.438:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/174314.216:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/174317.729:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/174323.993:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/174328.998:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/174752.228:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/174823.840:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/174832.352:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/174835.824:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/174839.876:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/174844.601:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/174910.295:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/174916.368:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175802.542:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175813.182:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175816.743:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175817.979:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175821.504:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175822.702:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175826.206:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175827.689:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175831.425:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175832.331:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175858.775:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175859.562:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175903.074:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175904.214:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175907.632:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175908.380:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175921.420:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175922.095:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175925.495:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175929.634:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/175933.179:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/175934.217:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/180455.508:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/180456.232:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/180459.684:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/180531.785:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/180535.219:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/180536.057:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/180545.399:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/180814.288:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/180817.768:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/180818.463:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/180856.274:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/180919.066:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/180922.638:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/180923.684:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/180938.394:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/181013.087:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/181042.981:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/181052.279:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/181340.974:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/181909.210:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/182003.154:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/182033.645:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/182059.837:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/182146.526:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/182427.342:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/182437.394:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/182440.953:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/182519.371:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/182524.617:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/182526.541:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/182532.172:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/182533.852:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/182538.236:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0709/182603.783:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0709/183603.836:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report a086faae-92be-4e72-8477-8a0db1c8a17d
+[0709/183603.838:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report bcbf56c0-495b-420e-b366-d48f6c8033fe
+[0709/183603.839:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 9aeb5b30-503c-46be-a03d-ad3cc5141d0f
+[0709/183603.841:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report e503da5e-edcb-41e1-b2e6-948b583dbac9
+[0709/183603.842:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report ebba8e79-78ab-41d6-a2f4-0c50ad1fc16d
+[0709/183603.843:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report b6ae6fbc-52d1-4f8e-8e7d-f6d0ceaeeae6
+[0709/183603.845:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 6b037416-64ce-41a3-bd1a-4c602f736302
+[0709/183603.846:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 8e7b6d01-8259-406d-8564-ffc678cef8f4
+[0709/183603.848:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 00bebaac-e79a-462a-8af2-6bc98f92100f
+[0709/183603.849:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 6313a939-341a-42d5-8c87-01e54248776e
+[0709/183603.850:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 2dc05dcb-e414-46d7-89c8-bdccb5aa776f
+[0709/183603.851:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 4ee05af9-498d-4440-ba41-f489dae28123
+[0710/095337.817:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0710/095455.718:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0710/095626.227:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0710/100341.735:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0710/100356.168:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0710/100416.252:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0710/100448.420:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0710/100618.817:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0710/100727.547:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0710/101050.618:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0710/101252.864:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0710/102252.919:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 1f8865e8-3ce0-49d4-9184-1c9d75a1d1f7
+[0710/102252.920:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 71be27bb-53c2-4415-81e0-a563ead7869e
+[0710/102252.921:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 3dfd3283-5a9d-4412-86e6-5eee5bf0566b
+[0710/102252.922:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 4fe7be8a-4dc6-42be-8ceb-f9547671a973
+[0710/111600.294:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0710/115201.055:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0711/155512.084:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0711/155618.267:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0715/151215.488:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0715/151412.814:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0715/151630.381:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0715/151633.966:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0715/151637.040:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0715/151640.725:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0715/151644.872:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0715/151657.361:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0715/151658.575:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0715/151704.051:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0715/151705.172:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0715/151725.977:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0715/151736.651:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0715/152736.754:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report bb51d493-072c-42ba-a2ca-1e783bc86d59
+[0715/152736.755:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 56b66ec7-ab7f-4316-aabf-aee8536627ef
+[0715/152736.756:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report b7eb6477-2593-4086-8c06-1f1452b4d9fd
+[0715/152736.757:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report d7fe9d26-2140-4646-8ca9-504a24fc95d2
+[0715/152736.758:ERROR:prune_crash_reports.cc(58)] Database Pruning: Failed to remove report 8b27186d-fd69-40bb-ab90-bb72f70287ac
+[0716/115439.928:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0716/175429.628:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0716/180944.466:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0717/172013.265:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0717/173433.016:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0718/170151.344:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0719/163958.039:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0726/113052.588:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0729/153725.106:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0729/162552.498:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0731/110145.749:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0801/154506.326:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0802/102430.004:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0812/123105.037:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0819/125343.358:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0826/083751.860:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0830/181224.411:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0910/131847.834:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[0916/111738.301:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1008/100351.577:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1008/182812.033:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1021/080304.325:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1022/083956.103:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1022/084138.371:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[1022/084151.119:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1022/084240.045:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[1024/115911.438:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1024/120002.882:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[1024/120037.103:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1024/120358.074:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1024/122622.438:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
+[1024/122735.813:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1024/122815.892:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1024/141636.358:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1024/141652.645:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[1024/143456.143:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1024/170538.889:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1024/173425.465:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[1024/173427.020:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1024/173452.653:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[1024/173607.732:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1024/173708.634:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[1025/103752.480:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1025/104156.393:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[1025/104655.512:WARNING:chrome_main_delegate.cc(569)] final extension: 
+[1025/105047.503:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
