@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>WSProxy-1.0.0</title>
+    <link rel="stylesheet" type="text/css" href=".\res\css\main.css">
+	<link rel="stylesheet" type="text/css" href=".\res\css\switch.css">
+    <link rel="stylesheet" type="text/css" href=".\res\css\alertify.min.css">
+    <link rel="stylesheet" type="text/css" href=".\res\css\themes\default.min.css">
+	<script src=".\res\js\jquery-3.0.0.min.js"></script>
+</head>
+<body>
+WSDL Url: <input id="wsdlurl" type="text" name="wsdurl" value="" placeholder="Somthing like: https://suny.iscboard.com:8888/xxxwsv2x/billing?wsdl">
+<img style="float: right;position: relative;top: -83px; padding: 0; margin: 0;" src=".\res\img\help.png" onclick="openHelpWindow();">
+<br>
+<div id="wsdlsubdiv"><input style="position: relative; z-index: 100000" type="submit" value="Submit" onclick="getWSDLFile($('#wsdlurl').val().trim());">
+<p style="">Push this buttom to test received WSDL file</p></div>
+
+<div id="newserlink" style="z-index: 1; height: 210px;">
+    <p>Your new Proxy server will be somthing like: </p><span><a id="copyClipboard" style="font-size: x-small;
+    top: -20px;
+    left: -20px;
+    position: relative;
+    visibility: hidden;" href="#" target="" onclick="copy2Clipboard();return false;">Copy to Clipboard</a></span>
+    <a style="top: -60px;
+    position: relative;" class="not-active" href="https://192.168.160.62:8890/bmiwsv27/billing?wsdl" target="_blank">http://localhost:8888/xxxwsv2x/billing?wsdl</a>
+</div>
+
+<div id="startdiv" style="position: relative;top: -132px;">
+	<div class="switch" style="margin: auto;">
+		<input id="startbtn" type="checkbox" onchange="buttonAct()">
+		<label><i></i></label>
+	</div> 
+	<!--img id="startimg" style="z-index: 10000;" src=".\res\img\start.png" alt="Start Button" height="70" width="70" onclick="buttonAct();">
+	<input style="z-index: 1000;" type="reset" value="start" onclick="buttonAct();"-->	
+</div>
+
+<textarea id="log" style="    position: relative;
+    top: -120px;" placeholder="System Logs..."></textarea>
+
+<!--div id="soapclientdiv" style="    position: relative;">
+    <p>Use "WebService Studio" for test above WSDL   </p>
+    <input style="z-index: 1000;" type="reset" value="WebServiceStudio" onclick="runSoapClient();">
+</div-->
+<script>
+	$ = jQuery = require('..\\WSProxy\\res\\js\\jquery-3.0.0.min.js');
+	$log = $("#log");
+</script>
+    <script src=".\res\js\alertify.min.js"></script>
+	<script src=".\res\js\init.js"></script>
+	<script src=".\res\js\tray.js"></script>
+	<script src=".\res\js\proxy.js"></script>
+	<script src=".\index.js"></script>
+    <script src=".\res\js\main.js"></script>
+	<script src=".\res\js\service.js"></script>
+</body>
+<!--<div id="log"></div>
+
+    <fieldset>
+        <input type="text" placeholder="Text input">
+        <input type="text" value="Text input focused">
+        <textarea placeholder="Textarea"></textarea>
+    </fieldset>
+    <fieldset>
+        <label><input type="checkbox" checked> Checkbox</label>
+        <label><input type="checkbox"> Checkbox</label>
+        <label><input type="radio" checked> Radio</label>
+        <label><input type="radio"> Radio</label>
+    </fieldset>
+    <fieldset>
+        <select><option>Select&hellip;</option><option>Another</option></select>
+        <input type="submit" value="Submit"> <input type="reset" value="Cancel">
+    </fieldset>-->
+<script>
+$(function(){
+	/*if (typeof(manifestData.data.wsdlUrl) != 'undefined')
+		$('#wsdlurl').val(manifestData.data.wsdlUrl);*/
+});
+</script>
+
+</html>

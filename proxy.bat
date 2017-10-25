@@ -1,0 +1,1 @@
+nw service "https://192.168.160.62:8890/bmiwsv28/billing?wsdl" 8080

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataEditors />
+  <InvokeSettings>
+    <RecentlyUsedUris>
+      <Uri>http://localhost:8888/bmiwsv27/billing?wsdl</Uri>
+      <Uri>http://localhost:8888/bkiwsv27/billing?wsdl</Uri>
+    </RecentlyUsedUris>
+  </InvokeSettings>
+  <TypeConverters />
+  <UiSettings>
+    <MessageFont>Microsoft Sans Serif| 8.25pt</MessageFont>
+    <ReqRespFont>Microsoft Sans Serif| 8.25pt</ReqRespFont>
+    <WsdlFont>Microsoft Sans Serif| 8.25pt</WsdlFont>
+  </UiSettings>
+  <WsdlSettings CustomCodeDomProvider="" Language="CS" Protocol="SOAP" />
+</Configuration>

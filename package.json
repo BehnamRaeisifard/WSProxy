@@ -1,0 +1,22 @@
+{
+  "app_name": "WSProxy",
+  "chromium-args": "--mixed-context --remember-cert-error-decisions --ignore-certificate-errors --ignore-urlfetcher-cert-requests",
+  "dependencies": {},
+  "keywords": [
+    "demo",
+    "node-webkit"
+  ],
+  "main": "./app/WSProxy/index.html",
+  "name": "WSProxy",
+  "version": "0.1.0",
+  "window": {
+    "frame": true,
+    "height": 570,
+    "icon": "link.png",
+    "resizable": false,
+    "title": "node-webkit demo",
+    "toolbar": true,
+    "width": 500,
+	"show": false
+  }
+}
