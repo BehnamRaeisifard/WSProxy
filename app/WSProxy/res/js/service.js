@@ -15,7 +15,7 @@ function isServiceInstalled(){
 
 function installService(){
 	try{
-		execSync(nssmPath, ['install', serviceName, global.__dirname+'/nw.exe']);
+		execSync(nssmPath, ['install', serviceName, global.__dirname+'/WSProxy.exe']);
 		execSync(nssmPath, ['set', serviceName, 'AppDirectory', global.__dirname]);
 		return true;
 	}catch(err){
